@@ -3,16 +3,12 @@
     "start": "vite"
   },
   "devDependencies": {
-    "autoprefixer": "^10.4.18",
-    "postcss": "^8.4.35",
-    "tailwindcss": "^3.4.1",
-    "vite": "^4.5.2"
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.4",
+    "vite": "^4.0.4"
   },
-  "name": "razorpay-clone-",
-  "version": "1.0.0",
-  "main": "postcss.config.js",
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  "dependencies": {
+    "feather": "^0.0.5"
+  }
 }
